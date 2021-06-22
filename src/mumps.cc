@@ -1,9 +1,3 @@
-/*
- * Copyright (C) JSC Komitex
- *
- * Alexey Petrunev petrunev_al@komitex.ru
- * 
- */
 extern "C" {	
 #include <sys/types.h>
 	

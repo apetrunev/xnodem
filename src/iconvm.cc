@@ -1,9 +1,3 @@
-/*
- * Copyright (C) JSC Komitex
- *
- * Alexey Petrunev petrunev_al@komitex.ru
- * 
- */
 #ifdef __cplusplus
 extern "C" {
 #endif
