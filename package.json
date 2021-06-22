@@ -1,0 +1,27 @@
+{
+  "author": "",
+  "name": "nodem",
+  "description": "Binding API and driver for the GT.M language and database.",
+  "version": "0.6.3",
+  "os": [
+    "linux"
+  ],
+  "keywords": [
+    "GT.M",
+    "M"
+  ],
+  "main": "./lib/nodem",
+  "pereferGlobal": "true",
+  "license": "AGPL-3.0",
+  "engines": {
+    "node": ">=0.8.x"
+  },
+  "scripts": {
+    "install": "node-gyp rebuild"
+  },
+  "gypfile": true,
+  "directories": {
+    "example": "examples",
+    "test": "test"
+  }
+}
